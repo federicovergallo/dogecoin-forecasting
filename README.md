@@ -1,1 +1,1 @@
-# dogecoin-forecasting
+# Dogecoin price forecasting using TCN
