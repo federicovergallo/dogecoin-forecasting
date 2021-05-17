@@ -1,5 +1,7 @@
-torch>=1.1
-torchvision
-numpy
-tqdm
-tensorboard>=1.14
+matplotlib==3.4.1
+pandas==1.2.3
+torchvision==0.8.2
+numpy==1.19.2
+tqdm==4.51.0
+torch==1.7.1
+scikit_learn==0.24.2
